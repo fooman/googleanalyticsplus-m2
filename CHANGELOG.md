@@ -1,5 +1,7 @@
 # Change Log
 
+## [Unreleased]
+
 ## [4.0.0] 2018-12-02
 ### Changed
 - Package changed into a Metapackage - Implementation moved into fooman/googleanalyticsplus-implementation-m2 package
