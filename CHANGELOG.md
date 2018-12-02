@@ -1,4 +1,6 @@
 # Change Log
+
+## [Unreleased]
 ### Changed
 - Package changed into a Metapackage - Implementation moved into fooman/googleanalyticsplus-implementation-m2 package
 - Semantic versioning will only be applied to the implementation package
