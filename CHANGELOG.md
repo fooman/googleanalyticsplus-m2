@@ -4,6 +4,10 @@
 ### Changed
 - Package changed into a Metapackage - Implementation moved into fooman/googleanalyticsplus-implementation-m2 package
 - Semantic versioning will only be applied to the implementation package
+### Fixed
+- Add currency code on order tracking data
+### Added
+- Support for Magento 2.3
 
 ## [3.0.0] 2017-09-27
 ### Changed
