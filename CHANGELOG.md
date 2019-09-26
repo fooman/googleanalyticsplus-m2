@@ -1,6 +1,8 @@
 # Change Log
 
 ## [Unreleased]
+### Security
+- Fixed potential XSS due to wrong escape method used
 
 ## [4.0.2] - 2019-06-26
 ### Added
