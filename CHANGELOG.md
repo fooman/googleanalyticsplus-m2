@@ -1,6 +1,6 @@
 # Change Log
 
-## [Unreleased]
+## [4.0.4] - 2019-10-08
 ### Added
 - Support for Php 7.3
 - Support for Magento 2.3.3
