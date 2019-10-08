@@ -1,6 +1,9 @@
 # Change Log
 
 ## [Unreleased]
+### Added
+- Support for Php 7.3
+- Support for Magento 2.3.3
 ### Fixed
 - Normalised url was not used
 
