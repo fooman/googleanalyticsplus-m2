@@ -1,6 +1,8 @@
 # Change Log
 
 ## [Unreleased]
+### Fixed
+- Normalised url was not used
 
 ## [4.0.3] - 2019-09-26
 ### Security
