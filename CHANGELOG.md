@@ -1,6 +1,6 @@
 # Change Log
 
-## [Unreleased]
+## [4.0.5] - 2020-01-26
 ### Added
 - Support for Magento 2.2.11 and 2.3.4
 
