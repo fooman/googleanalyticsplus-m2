@@ -1,5 +1,11 @@
 # Change Log
 
+## [Unreleased]
+### Added
+- Compatibility with Magento 2.4.0
+- Support for Php 7.4
+- Ability to switch tracked url to be based on requested uri
+
 ## [4.0.6] - 2020-04-28
 ### Added
 - Support for Magento 2.3.5
