@@ -3,11 +3,10 @@
     "license": "OSL-3.0",
     "description": "Additional functionality for the default Magento Google Analytics",
     "type": "metapackage",
-    "version": "4.0.7",
-    "require": 
-    {
+    "version": "4.0.8",
+    "require": {
         "php": "7.0.2|7.0.4|~7.0.6|~7.1.0|~7.2.0|~7.3.0|~7.4.0",
         "magento/framework": ">=100.1.0 < 102.0.6 | >=103.0.0 < 103.0.1",
-        "fooman/googleanalyticsplus-implementation-m2":"105.1.0"
+        "fooman/googleanalyticsplus-implementation-m2": "105.1.0"
     }
 }
