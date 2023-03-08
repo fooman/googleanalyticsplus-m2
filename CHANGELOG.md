@@ -1,5 +1,7 @@
 # Change Log
 
+## [Unreleased]
+
 ## [4.2.0] - 2023-03-08
 ### Added
 - Support for Php 8.2
